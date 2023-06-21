@@ -69,7 +69,7 @@ Jane will open the first ticket which says entire mobile banking is down. We are
 <p>
 Change the department of the ticket from support to System administrator has the all permissions to do everything.
   
-Change the priority level from normal to emergency.
+Change the priority level from normal to High.
 </p>
 <br />
 
