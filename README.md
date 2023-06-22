@@ -116,3 +116,5 @@ The ticket Jane resolved is removed from "Open Tickets" and will now appear unde
   When tickets are resolved, they now appear under the "Closed Tickets" section of osTickets.
 </p>
 <br />
+
+Hope you enjoyed this tutorial!
